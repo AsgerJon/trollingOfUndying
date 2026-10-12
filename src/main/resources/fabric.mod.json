@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "trollingofundying",
+  "version": "${version}",
+  "name": "Trolling of Undying",
+  "description": "Replaces the totem of undying pop animation with one defined in a resource pack: frames, motion path, sound and all.",
+  "authors": [
+    "AsgerJon"
+  ],
+  "license": "Apache-2.0",
+  "icon": "assets/trollingofundying/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "io.github.asgerjon.trollingofundying.TrollingOfUndyingClient"
+    ]
+  },
+  "mixins": [
+    "trollingofundying.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "fabric-api": "*",
+    "minecraft": "~26.3",
+    "java": ">=25"
+  }
+}

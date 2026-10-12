@@ -1,0 +1,7 @@
+{
+  "totem_animations.risitas": {
+    "sounds": [
+      { "name": "trollingofundying:totem_animations/risitas", "stream": true }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "io.github.asgerjon.trollingofundying.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "ClientPacketListenerMixin",
+    "LocalPlayerMixin",
+    "MinecraftMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "io.github.asgerjon.trollingofundying.gametest.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "ScreenEffectRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

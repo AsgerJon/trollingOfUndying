@@ -1,0 +1,16 @@
+{
+  "duration_ticks": 66,
+  "frames": "trollingofundying:textures/totem_animations/risitas",
+  "fps": 20,
+  "loop_frames": true,
+  "sound": "trollingofundying:totem_animations.risitas",
+  "sound_volume": 1.0,
+  "stop_sound_at_end": false,
+  "vanilla_sound_ticks": 8,
+  "hide_vanilla_item": true,
+  "hide_vanilla_particles": false,
+  "mute_vanilla_sound": true,
+  "alpha": 0.6,
+  "motion": "vanilla_totem",
+  "size_scale": 1.0
+}
